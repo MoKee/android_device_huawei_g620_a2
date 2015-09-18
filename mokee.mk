@@ -16,8 +16,8 @@
 
 $(call inherit-product, device/huawei/g620_a2/full.mk)
 
-# Inherit some common CM stuff.
-$(call inherit-product, vendor/cm/config/common_full_phone.mk)
+# Inherit some common MK stuff.
+$(call inherit-product, vendor/mk/config/common_full_phone.mk)
 
 # Release name
 PRODUCT_RELEASE_NAME := g620_a2

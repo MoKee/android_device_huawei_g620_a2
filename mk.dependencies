@@ -1,11 +1,17 @@
 [
   {
+    "repository": "android_vendor_huawei_g620_a2",
+    "target_path": "vendor/huawei/g620_a2"
+  },
+  {
     "repository": "android_kernel_huawei_msm8226",
     "target_path": "kernel/huawei/msm8226"
-  }, {
+  },
+  {
     "repository": "android_device_qcom_sepolicy",
     "target_path": "device/qcom/sepolicy"
-  }, {
+  },
+  {
     "repository": "android_device_qcom_common",
     "target_path": "device/qcom/common"
   }

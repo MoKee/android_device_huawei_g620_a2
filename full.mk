@@ -22,7 +22,7 @@ $(call inherit-product, device/huawei/g620_a2/device.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := g620_a2
-PRODUCT_NAME := cm_g620_a2
+PRODUCT_NAME := mk_g620_a2
 PRODUCT_BRAND := Huawei
 PRODUCT_MODEL := HUAWEI G620-A2
 PRODUCT_MANUFACTURER := HUAWEI
